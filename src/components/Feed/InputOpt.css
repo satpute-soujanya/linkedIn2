@@ -1,0 +1,15 @@
+.InputOpt {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  color: rgb(90 90 90);
+  padding: 10px;
+  cursor: pointer;
+}
+.InputOpt:hover {
+  background: whitesmoke;
+  border-radius: 10px;
+}
+.InputOpt > h4 {
+  margin-left: 5px;
+}
